@@ -47,7 +47,7 @@ Thank you everyone for checking out the video, if you haven't it explains code i
 	-  `cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=/path/to/vcpkg/scripts/buildsystems/vcpkg.cmake`
 	- Use the vcpkg cmake toolchain path from above
 7. Build the project
-	- `cmake --build build`
+	- `cmake --build build` 
 8. Run the program
 	- The executables will be located in the build folder
 
